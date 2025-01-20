@@ -5,7 +5,7 @@ function igual() {
     try {
         const restul =
             eval(document.getElementById("resultados").value)
-        document.getElementById("resultados").value = restul;
+        document.getElementById("resultados").value = result;
     }
     catch (error) {
         document.getElementById("resultados").value = "Error";
