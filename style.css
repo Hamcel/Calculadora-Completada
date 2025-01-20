@@ -8,9 +8,9 @@
 body {
     background-image: url(rin\ itoshi.png);
     background-repeat: no-repeat;
-    background-size: 100%;
-    min-height: 90vh;
-    min-width: 90vh;
+    background-size: cover;
+    min-height: 100vh;
+    min-width: 100vh;
     display: grid;
     background-position: center;
     place-items: center;
