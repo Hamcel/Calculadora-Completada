@@ -3,7 +3,7 @@ function agregar(value) {
 }
 function igual() {
     try {
-        const restul =
+        const result =
             eval(document.getElementById("resultados").value)
         document.getElementById("resultados").value = result;
     }
